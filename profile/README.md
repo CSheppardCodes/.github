@@ -12,9 +12,11 @@
 ### ROVer Optometry (ρ): Underwater Object Detection
 <a href="#"><img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Aarian%20Ahsan-purple"></a><a href="#"> <img alt="Aarian Ahsan"  src="https://img.shields.io/badge/-Aditya%20Kulkarni-black"> <img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Farman%20Ali-black"> <img alt="Aarian Ahsan"  src="https://img.shields.io/badge/-Parisa%20Nawar-black"> <img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Sruti%20Karthikeyan-black">
 ```
-You will learn the basics of image classification to then be immediately thrown into the ringer to train a model that can detect 
-certain types of objects under various measures of turbid water by utilizing CNNs (Convolutional neural networks) such as YOLO 
-or MobileNet. The main goal is to be able to demonstrate underwater image classification at a high accuracy rate.
+You will learn the basics of image classification to then be immediately 
+thrown into the ringer to train a model that can detect certain types of 
+objects under various measures of turbid water by utilizing CNNs 
+(Convolutional neural networks) such as YOLO or MobileNet. The main goal 
+is to be able to demonstrate underwater image classification at a high accuracy rate.
 ```
 
   <!-- RAINBOW LINE BOT -->
