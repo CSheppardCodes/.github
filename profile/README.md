@@ -12,11 +12,10 @@
 ### ROVer Optometry (ρ): Underwater Object Detection
 <a href="#"><img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Aarian%20Ahsan-purple"></a><a href="#"> <img alt="Aarian Ahsan"  src="https://img.shields.io/badge/-Aditya%20Kulkarni-black"> <img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Farman%20Ali-black"> <img alt="Aarian Ahsan"  src="https://img.shields.io/badge/-Parisa%20Nawar-black"> <img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Sruti%20Karthikeyan-black">
 ```
-You will learn the basics of image classification to then be immediately 
-thrown into the ringer to train a model that can detect certain types of 
-objects under various measures of turbid water by utilizing CNNs 
-(Convolutional neural networks) such as YOLO or MobileNet. The main goal 
-is to be able to demonstrate underwater image classification at a high accuracy rate.
+You will learn the basics of image classification to then be immediately thrown into the ringer to train a model that
+can detect certain types of objects under various measures of turbid water by utilizing CNNs 
+(Convolutional neural networks) such as YOLO or MobileNet. The main goal is to be able to demonstrate underwater image 
+classification at a high accuracy rate.
 ```
 
   <!-- RAINBOW LINE BOT -->
@@ -26,9 +25,9 @@ is to be able to demonstrate underwater image classification at a high accuracy 
 ### Baremetal Programming an embedded system to Manipulate Rigid bodies in 3D Euclidean Space
  <a href="#"><img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Adith%20Talupuru-purple"> </a><a href="#"> <img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Michael%20Ugochukwu-black"> <img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Omar%20Abioye-black"> <img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Pranay%20Lakkaraju-black"> <img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Raj%20Thapa-black">
 ```
-Computing the transformations of rigid bodies over 3 dimensions is a very intensive process. A lot of computers have quite a 
-bit of difficulty doing it efficiently. It's the main reason graphics cards exist in the first place. Let's try making it 
-work on an embedded device!
+Computing the transformations of rigid bodies over 3 dimensions is a very intensive process. A lot of computers have quite 
+a bit of difficulty doing it efficiently. It's the main reason graphics cards exist in the first place. Let's try making 
+it work on an embedded device!
 ```
 
   <!-- RAINBOW LINE BOT -->
@@ -38,9 +37,9 @@ work on an embedded device!
 ### Cardiothoracic Diagnosis through Machine and Deep Learning
  <a href="#"><img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Aditya%20Desai-purple"> </a><a href="#"> <img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Anish%20Nyalakonda-black"> <img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Avinash%20Sriram-black"> <img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Phillip%20Lee-black"> <img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Shahrukh%20Showkath-black">
 ```
-You will learn the basics of deep learning and data augmentation to develop a model that can accurately detect a wide range of 
-diseases from a Chest X-Ray. Some diseases that will be focused on include: Pneumonia, COVID-19, Cardiomegaly, and a healthy 
-thoracic cavity.
+You will learn the basics of deep learning and data augmentation to develop a model that can accurately detect a wide range 
+of diseases from a Chest X-Ray. Some diseases that will be focused on include: Pneumonia, COVID-19, Cardiomegaly, and a 
+healthy thoracic cavity.
 ```
   <!-- RAINBOW LINE BOT -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
