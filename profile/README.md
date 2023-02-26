@@ -1,3 +1,4 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Text&weight=600&size=42&duration=6000&pause=1500&color=F77719&width=900&height=100&lines=Welcome+to+ACM+UTD+Research+Github+Page!"></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+ACM+UTD+Research;Second+line+of+text)](https://git.io/typing-svg)
