@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Text&weight=600&size=42&duration=6000&pause=1500&color=F77719&width=900&height=100&lines=Welcome+to+ACM+UTD+Research+Github+Page!"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Text&weight=100&size=42&duration=6000&pause=1500&color=F77719&width=1050&height=100&lines=Welcome+to+the+ACM+UTD+Research+Github+Page!"></a>
 </p>
 <!------------------------------------------------------------------------ Introduction ------------------------------------------------------------------------------>
 <picture> <img align="right" src="https://user-images.githubusercontent.com/87790430/221443473-b5b3a711-6b80-4bfd-b5ed-933d85610617.png" width = 200px></picture>
