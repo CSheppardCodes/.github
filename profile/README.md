@@ -80,7 +80,7 @@ systems using adversarial learning to spread misinformation to fool public under
 
 <!--CHRIS S-->
 ### [Wrist bone fracture detection using YOLOV7](https://github.com/ACM-Research/WristFractureYOLOv7-Public)
- <a href="#"><img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Christopher%20Sheppard-purple"> </a><a href="#"> <img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Lalima%20Karri-gray"> <img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Lamisa%20Tahseen-gray"> <img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Vimal%20Sebastian-gray"> <img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Yukyang%20Cha-gray">
+ <a href="#"><img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Christopher%20Sheppard-purple"> </a><a href="#"> <img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Lalima%20Karri-gray"> <img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Lamisa%20Tahseen-gray"> <img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Vimal%20Sebastian-gray"> <img alt="Aarian Ahsan" src="https://img.shields.io/badge/-Yukyung%20Cha-gray">
 ```
 Diagnosing wrist fractures requires time-consuming specialized training. We will use leading computer vision 
 algorithms for automated fracture detection.
